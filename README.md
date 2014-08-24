@@ -1,10 +1,3 @@
----
-Title: "README - Getting and Cleaning Data Course Project"
-Author: "Ron Seca"
-Date: "Sunday, August 24, 2014"
-Output: html_document
----
-
 ## README
 
 ### Getting and Cleaning Data Course Project Aug 24, 2014
