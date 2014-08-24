@@ -932,9 +932,3 @@ head(tidy)
 ## 6                                                  -0.6939
 ```
 
-
-### Here is a plot of the first variable timebodyaccelerationmeanx from the tidy dataset
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
-
