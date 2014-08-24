@@ -204,7 +204,7 @@ str(tidy)
 ##  $ frequencybodybodygyroscopejerkmagnitudestandarddeviation   : num  -0.933 -0.987 -0.995 -0.382 -0.392 ...
 ```
 
-### Here is the structure of the tidy dataset
+### Here is the summary of the tidy dataset
 
 
 ```r
